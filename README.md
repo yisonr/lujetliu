@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **lujetliu**
 - 👀 I’m interested in **Web3**, **Full-Stack**
-- 🌱 I’m currently learning **Go**, **Etherrum**, **Js**, **Kafka**, **Docker**
+- 🌱 I’m currently learning **Go**, **Ethereum**, **Js**, **Kafka**, **Docker**
 - 📫 How to reach me [lujetliu@gmail.com](lujetliu@gmail.com)
 
 <!---
